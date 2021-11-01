@@ -2,7 +2,6 @@
 
 
 - 📱 I’m an **Android Developer**.
-- 😷 I'm basically a Dentist.
 - 🔭 I’m currently working on **[SpeedView](https://github.com/anastr/SpeedView)** and **[RxLab](https://github.com/anastr/RxLab)**.
 - 🌱 I’m currently learning **Flutter**.
 - ❤️ I love open souce.
