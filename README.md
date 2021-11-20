@@ -1,10 +1,7 @@
 ### Hi there👋, I'm Anas
 
 
-- 📱 I’m an **Android Developer**.
-- 🔭 I’m currently working on **[SpeedView](https://github.com/anastr/SpeedView)** and **[RxLab](https://github.com/anastr/RxLab)**.
-- 🌱 I’m currently learning **Flutter**.
-- ❤️ I love open souce.
+I'm a Native Android Developer who loves building Android apps using **Kotlin** programming language, using **Coroutines** to handle threads and love to follow the rules of **clean-architecture**.
 <!--
 - 📫 How to reach me: ...
 -->
